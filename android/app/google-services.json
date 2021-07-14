@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "595091298637",
+    "firebase_url": "https://dynamiclink-c678b.firebaseio.com",
+    "project_id": "dynamiclink-c678b",
+    "storage_bucket": "dynamiclink-c678b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:595091298637:android:b232a7b46002fdc6dcbf04",
+        "android_client_info": {
+          "package_name": "com.example.notification_demo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "595091298637-jdu1i2k1mehs0er2drec4c6t92euenfp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdgTTenV2pu-XvhnEKVc8lUskM_88cBmU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "595091298637-jdu1i2k1mehs0er2drec4c6t92euenfp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "595091298637-ralt6el495h8vkdua8le1okc1i4f5ppe.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.hrm.linktest",
+                "app_store_id": "1538021806"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
